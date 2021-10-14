@@ -1,5 +1,4 @@
 # cleanBrowserCache.ps1
-## This script was designed to clean browser cache files on a multi-user Windows server.
 
 This is a Powershell script that deletes cache files for Microsoft Edge and Mozilla Firefox on a shared Windows server. It has been tested on Windows Server 2019.
 
